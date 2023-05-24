@@ -1,3 +1,4 @@
+global using IMS.Shared;
 using Microsoft.AspNetCore.ResponseCompression;
 
 namespace IMS

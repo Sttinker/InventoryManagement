@@ -1,4 +1,3 @@
-using IMS.Shared;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IMS.Server.Controllers
